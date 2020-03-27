@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cockatrice_deck version="1">
+    <deckname>CMDR-WooGruul</deckname>
+    <comments></comments>
+    <zone name="main">
+        <card number="1" name="Abundance"/>
+        <card number="1" name="Banefire"/>
+        <card number="1" name="Beast Whisperer"/>
+        <card number="1" name="Beastmaster Ascension"/>
+        <card number="1" name="Blighted Woodland"/>
+        <card number="1" name="Blood Aspirant"/>
+        <card number="1" name="Bloodbraid Elf"/>
+        <card number="1" name="Boon Satyr"/>
+        <card number="1" name="Burn at the Stake"/>
+        <card number="1" name="Burning Earth"/>
+        <card number="1" name="Burning-Tree Emissary"/>
+        <card number="1" name="Careless Celebrant"/>
+        <card number="1" name="Castle Garenbrig"/>
+        <card number="1" name="Cinder Glade"/>
+        <card number="1" name="Circuitous Route"/>
+        <card number="1" name="Command Tower"/>
+        <card number="1" name="Elvish Mystic"/>
+        <card number="1" name="Explore"/>
+        <card number="1" name="Explosive Vegetation"/>
+        <card number="1" name="Fade into Antiquity"/>
+        <card number="1" name="Faithless Looting"/>
+        <card number="1" name="Far Wanderings"/>
+        <card number="1" name="Fireball"/>
+        <card number="14" name="Forest"/>
+        <card number="1" name="Fyndhorn Elves"/>
+        <card number="1" name="Gallia of the Endless Dance"/>
+        <card number="1" name="Genesis Wave"/>
+        <card number="1" name="Guardian Project"/>
+        <card number="1" name="Heroes of the Revel"/>
+        <card number="1" name="Hooded Hydra"/>
+        <card number="1" name="Irreverent Revelers"/>
+        <card number="1" name="Khalni Heart Expedition"/>
+        <card number="1" name="Kindred Charge"/>
+        <card number="1" name="Kodama's Reach"/>
+        <card number="1" name="Llanowar Elves"/>
+        <card number="1" name="Mass Hysteria"/>
+        <card number="1" name="Mistcutter Hydra"/>
+        <card number="13" name="Mountain"/>
+        <card number="1" name="Myriad Landscape"/>
+        <card number="1" name="Naturalize"/>
+        <card number="1" name="Nessian Wanderer"/>
+        <card number="1" name="Nexus Wardens"/>
+        <card number="1" name="Nyxbloom Ancient"/>
+        <card number="1" name="Nyxborn Rollicker"/>
+        <card number="1" name="Opal Palace"/>
+        <card number="1" name="Overrun"/>
+        <card number="1" name="Primal Growth"/>
+        <card number="1" name="Pyroblast"/>
+        <card number="1" name="Rampant Growth"/>
+        <card number="1" name="Rancor"/>
+        <card number="1" name="Reckless Reveler"/>
+        <card number="1" name="Red Elemental Blast"/>
+        <card number="1" name="Satyr Firedancer"/>
+        <card number="1" name="Satyr Grovedancer"/>
+        <card number="1" name="Satyr Hedonist"/>
+        <card number="1" name="Satyr Hoplite"/>
+        <card number="1" name="Satyr Nyx-Smith"/>
+        <card number="1" name="Satyr Piper"/>
+        <card number="1" name="Satyr Rambler"/>
+        <card number="1" name="Satyr Wayfinder"/>
+        <card number="1" name="Search for Tomorrow"/>
+        <card number="1" name="Setessan Oathsworn"/>
+        <card number="1" name="Sheltered Thicket"/>
+        <card number="1" name="Skola Grovedancer"/>
+        <card number="1" name="Stampede Rider"/>
+        <card number="1" name="Sylvan Awakening"/>
+        <card number="1" name="Temple of Abandon"/>
+        <card number="1" name="Violent Outburst"/>
+        <card number="1" name="Voyaging Satyr"/>
+        <card number="1" name="Wild Celebrants"/>
+        <card number="1" name="Wrap in Vigor"/>
+        <card number="1" name="Xenagos, God of Revels"/>
+        <card number="1" name="Xenagos, the Reveler"/>
+        <card number="1" name="Zendikar Resurgent"/>
+        <card number="1" name="Zhur-Taa Druid"/>
+    </zone>
+</cockatrice_deck>
